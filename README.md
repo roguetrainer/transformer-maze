@@ -11,6 +11,15 @@
 </div>
 
 ---
+![](./img/Mazes-RNNs-vs-Transformer.png)
+
+---
+> *“Ah no,” he said, “I see the source of the misunderstanding now. No, look, you see what happened was that we used to do experiments on them. They were often used in behavioral research, Pavlov and all that sort of stuff. So what happened was that the mice would be set all sorts of tests, learning to ring bells, run round mazes and things so that the whole nature of the learning process could be examined. From our observations of their behavior we were able to learn all sorts of things about our own …” Arthur’s voice trailed off.   
+“Such subtlety …” said Slartibartfast, “one has to admire it.”    
+“What?” said Arthur.    
+“How better to disguise their real natures, and how better to guide your thinking. Suddenly running down a maze the wrong way, eating the wrong bit of cheese, unexpectedly dropping dead of myxomatosis. If it’s finely calculated the cumulative effect is enormous.” He paused for effect. “You see, Earthman, they really are particularly clever hyper-intelligent pandimensional beings. Your planet and people have formed the matrix of an organic computer running a ten-million-year research program…. Let me tell you the whole story.”*.  
+― Douglas Adams, The Hitchhiker's Guide to the Galaxy
+---
 
 ## Overview
 
@@ -227,7 +236,7 @@ See [docs/architecture_guide.md](docs/architecture_guide.md) for detailed deriva
 
 ### Companion Projects
 
-This repository is part of a broader exploration of deep learning concepts:
+This repository is part of [a broader exploration of deep learning concepts](https://github.com/roguetrainer/around-the-world-in-81-repos):
 
 **Interpretability & Training Dynamics**
 - 🐉 [Baby Dragon Hatchling](https://github.com/roguetrainer/bdh-welsh-dragons) - Tracking concept formation in transformers trained on Welsh folk tales
