@@ -16,7 +16,7 @@ Understanding Transformers Through Code
 
 🔮 This isn't just historical curiosity. Understanding WHY transformers work, not just HOW, matters as we look at alternatives like STATE SPACE MODELS and whatever comes next. ꩜ Mazes remain a proving ground because they're simple enough to understand but complex enough to stress test architectures.
 
- 🧀 If, like me, you're trying to understand transformers beyond the API level, join me searching for the bait.
+ 🧀 If, like me, you're trying to understand transformers beyond the API level, join me searching for the bait.  
 🔗 https://github.com/roguetrainer/transformer-maze
 
  #Transformers #DeepLearning #PyTorch #MazeSolving #AIEducation #StateSpaceModels #Mamba #RNN #NeuralODEs #CanadianAI #MurineExperiments 
